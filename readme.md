@@ -10,7 +10,7 @@ Proactive Problem Solver | Curious & Excited for AI Era
 ## Work Experience
 **01/09/2023-01/10/2023 Mangalore, India**
 
-**Data Scienctist- MINDFUL AUTOMATION PVT. LTD.**
+**Data Scientist- MINDFUL AUTOMATION PVT. LTD.**
 - Extracting tables from Arabic Invoices, and using an OCR to scape detailsand output to excel tables and jsons. 
 - I used **G-cloud-vision and G-cloud-translate** api for the project. I also used **Paddle-OCR(SOTA 2022)** instead of pytesseract. It was a good learning experience.
 
