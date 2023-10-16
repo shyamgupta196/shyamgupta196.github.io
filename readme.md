@@ -1,6 +1,6 @@
 # Data Scientist | Computer Vision Consultant | Avid Learner
 Proactive Problem Solver | Curious & Excited for AI Era  
-**Technical Skills: Python, SQL, Google-cloud, Tableau, R, MLOPS, Deep Learning, Computer Vision, [Kaggle](kaggle.com/shyamgupta196)**
+**Technical Skills: Python, SQL, Google-cloud, Tableau, R, MLOPS, Deep Learning, Computer Vision, [Kaggle](https://kaggle.com/shyamgupta196)**
 
 #### Analytical Skills: SOTA Ninja [by following](https://paperswithcode.com/) and using them in projects, [Connecting](https://www.linkedin.com/in/shyam-gupta-5356511aa/) with people to stay updated. 
 
