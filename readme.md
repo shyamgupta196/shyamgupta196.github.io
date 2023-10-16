@@ -4,13 +4,15 @@ Proactive Problem Solver | Curious & Excited for AI Era
 #### Analytical Skills: SOTA Ninja [by following](https://paperswithcode.com/) and using them in projects, [Connecting](https://www.linkedin.com/in/shyam-gupta-5356511aa/) with people to stay updated. 
 
 ## Education
-- M.Sc., Data Science(1st year) | Technical University, Dortmund, Germany(_December 2023_)	 			        		
+- M.Sc., Data Science(1st year) | Technical University, Dortmund, Germany(_October 2023_)	 			        		
 - B.Sc., Applied Statistics and Analytics | Devi Ahilya University, Indore, India (_June 2022_)
 
 ## Work Experience
+Mostly worked on freelancing projects, hence the duration is less! Also I did a lot of small projects for a lot of individuals, which couldn't be mentioned here.
+
 **01/09/2023-01/10/2023 Mangalore, India**
 
-**Data Scientist- MINDFUL AUTOMATION PVT. LTD.**
+[**Data Scientist- MINDFUL AUTOMATION PVT. LTD.**](https://github.com/shyamgupta196/Arabic-ocr)
 - Extracting tables from Arabic Invoices, and using an OCR to scape detailsand output to excel tables and jsons. 
 - I used **G-cloud-vision and G-cloud-translate** api for the project. I also used **Paddle-OCR(SOTA 2022)** instead of pytesseract. It was a good learning experience.
 
@@ -48,6 +50,8 @@ I have wrote some good notebooks on Kaggle, I try to keep my **notebooks** as pr
 - [Data Grandmasters](https://www.linkedin.com/feed/update/urn:li:activity:6968001880232747008/) Event in my city. We competed against 20 teams, where we were asked
 questions related to analytics, statistics, and deep learning. We Won.
 
+### [Blogs](https://shyamgupta196.github.io/blogs) 
+*my blogging website expired, shifting blogs from there may take time*. Although traces of my blogs can be found on my [LinkedIN](https://www.linkedin.com/in/shyam-gupta-5356511aa/) and [MEDIUM](https://medium.com/@OG-shyam)
 ## Talks 
 - [Guest Speaker](https://www.linkedin.com/feed/update/urn:li:activity:7099910618928877569/)- More than ML.
 
