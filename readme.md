@@ -12,8 +12,8 @@ Mostly worked on freelancing projects, hence the duration is less! Also I did a 
 
 **01/09/2023-01/10/2023 Mangalore, India**
 
-[**Data Scientist- MINDFUL AUTOMATION PVT. LTD.**](https://github.com/shyamgupta196/Arabic-ocr)
-- Extracting tables from Arabic Invoices, and using an OCR to scape detailsand output to excel tables and jsons. 
+**Data Scientist- MINDFUL AUTOMATION PVT. LTD.**
+- Extracting tables from Arabic Invoices, and using an OCR to scape detailsand output to excel tables and jsons. [LINK](https://github.com/shyamgupta196/Arabic-ocr)
 - I used **G-cloud-vision and G-cloud-translate** api for the project. I also used **Paddle-OCR(SOTA 2022)** instead of pytesseract. It was a good learning experience.
 
 **14/10/2022 Mangalore, India**
