@@ -1,4 +1,4 @@
-# Data Scientist | Computer Vision Consultant | Avid Learner
+# Freelancer(Computer Vision and Data Analytics) | Avid Learner
 Proactive Problem Solver | Curious & Excited for AI Era  
 **Technical Skills: Python, SQL, Google-cloud, Tableau, R, MLOPS, Deep Learning, Computer Vision, [Kaggle](https://kaggle.com/shyamgupta196)**
 
