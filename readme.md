@@ -35,18 +35,18 @@ This is a product based company, My main responsibility was to create tutorials 
 4. **FREELANCE SELF**
 I wrote blogs, taught students Machine learning and Python accross the globe and consulted companies and individuals, with a team of 10 people who work with me and we grow together.
 
+## Talks 
+- Got Invited as a [Guest Speaker](https://www.linkedin.com/feed/update/urn:li:activity:7099910618928877569/)- More than ML.
+
 ## Projects
 
 ### Kaggle Notebooks & Competitions- 
 I have wrote some good notebooks on Kaggle, I try to keep my **notebooks** as practical as I can. [LINK](https://www.kaggle.com/shyamgupta196).
 - I teamed up with Samuel Courtinhas and came 32 🎉 out of 750+ in **Kaggle Competition**.
-- Winner 🎉 of [Data Grandmasters](https://www.linkedin.com/feed/update/urn:li:activity:6968001880232747008/) Event in my city. We competed against 20 teams, where we were asked
-questions related to analytics, statistics, and deep learning.
+- Winner 🎉 of [Data Grandmasters](https://www.linkedin.com/feed/update/urn:li:activity:6968001880232747008/) Event in my city. We competed against 20 teams, where we were asked questions related to analytics, statistics, and deep learning.
 
 ### [Blogs](https://shyamgupta196.github.io/blogs) 
 *my blogging website expired, shifting blogs from there may take time*. Although traces of my blogs can be found on my [LinkedIN](https://www.linkedin.com/in/shyam-gupta-5356511aa/) and [MEDIUM](https://medium.com/@OG-shyam)
-## Talks 
-- [Guest Speaker](https://www.linkedin.com/feed/update/urn:li:activity:7099910618928877569/)- More than ML.
 
 ## Volunteering 
 [Robin Hood Army](https://robinhoodarmy.com/) Served 4000+ hungry people during lockdown in India, where people starved for healthy and clean food supply.
