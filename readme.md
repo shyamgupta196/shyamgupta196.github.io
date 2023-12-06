@@ -1,4 +1,4 @@
-# Freelancer(Computer Vision and Data Analytics) | Avid Learner
+# Computer Vision and Data Analytics Consultant | Avid Learner
 Proactive Problem Solver | Curious & Excited for AI Era  
 **Technical Skills: Python, [Intermediate-SQL](https://www.linkedin.com/learning/certificates/4c2d9889f9dd7339e2dab7a0f47a5291f55d7ff7df243be19e525e91a60d5979), [No-Sql](https://www.linkedin.com/learning/certificates/3e309bcf37dad9e89243509103a6bb8ebb3c5a4ce86d18e5b6405cfd2d299f34?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BH70bUgKRSrisAY7rYn4EbQ%3D%3D),Google-cloud, Tableau, R, MLOPS, Deep Learning, Computer Vision, [Kaggle](https://kaggle.com/shyamgupta196)**
 
