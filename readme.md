@@ -44,6 +44,7 @@ I wrote blogs, taught students Machine learning and Python accross the globe and
 I have wrote some good notebooks on Kaggle, I try to keep my **notebooks** as practical as I can. [LINK](https://www.kaggle.com/shyamgupta196).
 - I teamed up with Samuel Courtinhas and came 32 🎉 out of 750+ in **Kaggle Competition**.
 - Winner 🎉 of [Data Grandmasters](https://www.linkedin.com/feed/update/urn:li:activity:6968001880232747008/) Event in my city. We competed against 20 teams, where we were asked questions related to analytics, statistics, and deep learning.
+### [Deployed](https://huggingface.co/sankhyikii) Gradio Projects @HuggingFace
 
 ### [Blogs](https://shyamgupta196.github.io/blogs) 
 *my blogging website expired, shifting blogs from there may take time*. Although traces of my blogs can be found on my [LinkedIN](https://www.linkedin.com/in/shyam-gupta-5356511aa/) and [MEDIUM](https://medium.com/@OG-shyam)
