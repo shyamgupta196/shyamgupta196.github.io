@@ -16,23 +16,23 @@ Mostly worked on **Freelancing projects**, Also I did a lot of small projects fo
 - - Extracting tables from Arabic Invoices, and using an OCR to scape detailsand output to excel tables and jsons. [CHECK OUT PROJECT](https://github.com/shyamgupta196/Arabic-ocr)
 - - I used **G-cloud-vision and G-cloud-translate** api for the project. I also used **Paddle-OCR(SOTA 2022)** instead of pytesseract. It was a good learning experience.
 
-2. **DATA SCIENTIST- MINDFUL AUTOMATION PVT. LTD.**
-- Process of KYC(Know your customer) involves verification of official documents which consists of
+- KYC
+- - Process of KYC(Know your customer) involves verification of official documents which consists of
 sensitive information but involved human interaction. this sensitive information could get leaked, and so I
 had to automate the whole process.
-- I spent a good amount of time doing **data pre-processing and augmentations**, then I tweaked a lot of
+- - I spent a good amount of time doing **data pre-processing and augmentations**, then I tweaked a lot of
 algorithms to solve the problems. finally, I automated the process of verification. At first I used **RCNN** then **Faster RCNN** but hardly had any success with them.
-- Finally, I used **SOTA 2020 YOLO**, to perform object detection, that gave me an accuracy of **88%**, then I performed OCR which gave me an accuracy of 90+%.
+- - Finally, I used **SOTA 2020 YOLO**, to perform object detection, that gave me an accuracy of **88%**, then I performed OCR which gave me an accuracy of 90+%.
 
-3. **DATA SCIENCE CONSULTANT (SELF)– KERALA FREELANCER**
+2. **DATA SCIENCE CONSULTANT (SELF)– KERALA FREELANCER**
 - Sea weeds are medicinal herbs, but requires a lot of skilled man hours to harvest them. I was given the task to make a model to classify these weeds and harvest it using robots. But given the scarce availability of data, I was able to get 25 images from Client. CNN’s were overfitting and took 40 hours to converge with **high BIAS**.
 - Finally made a **DETR(data efficient Transformer) with a 60% accuracy**.
 - In the end we have to stop the project because of budget constraints in data collection, gained a lot of experience in that project.
 
-4. **(Intern)CURRICULUM DEVELOPER TECHNICAL CONTENT WRITER- MODERN DATA COMPANY MODERN DATA COMPANY**
+3. **(Intern)CURRICULUM DEVELOPER TECHNICAL CONTENT WRITER- MODERN DATA COMPANY MODERN DATA COMPANY**
 This is a product based company, My main responsibility was to create tutorials and write technical documentation for people wanting to use their product.
 
-5. **FREELANCE SELF**
+4. **FREELANCE SELF**
 I wrote blogs, taught students Machine learning and Python accross the globe and consulted companies and individuals, with a team of 10 people who work with me and we grow together.
 
 ## Projects
