@@ -14,9 +14,9 @@ Proactive Problem Solver | Curious & Excited for AI Era
 Mostly worked on **Freelancing projects**, Also I did a lot of small projects for a lot of individuals, which couldn't be mentioned here for privacy reasons.
 
 1. **Data Scientist- MINDFUL AUTOMATION PVT. LTD.**
-- **Arabic Billing OCR**
-- - Extracting tables from Arabic Invoices, and using an OCR to scape detailsand output to excel tables and jsons. [CHECK OUT PROJECT](https://github.com/shyamgupta196/Arabic-ocr)
-- - I used **G-cloud-vision and G-cloud-translate** api for the project. I also used **Paddle-OCR(SOTA 2022)** instead of pytesseract. It was a good learning experience.
+  - **Arabic Billing OCR**
+  - - Extracting tables from Arabic Invoices, and using an OCR to scape detailsand output to excel tables and jsons. [CHECK OUT PROJECT](https://github.com/shyamgupta196/Arabic-ocr)
+  - - I used **G-cloud-vision and G-cloud-translate** api for the project. I also used **Paddle-OCR(SOTA 2022)** instead of pytesseract. It was a good learning experience.
 
   - **KYC**
   - - Process of KYC(Know your customer) involves verification of official documents which consists of
