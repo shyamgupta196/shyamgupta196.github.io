@@ -18,17 +18,17 @@ Mostly worked on **Freelancing projects**, Also I did a lot of small projects fo
 - - Extracting tables from Arabic Invoices, and using an OCR to scape detailsand output to excel tables and jsons. [CHECK OUT PROJECT](https://github.com/shyamgupta196/Arabic-ocr)
 - - I used **G-cloud-vision and G-cloud-translate** api for the project. I also used **Paddle-OCR(SOTA 2022)** instead of pytesseract. It was a good learning experience.
 
-- **KYC**
-- - Process of KYC(Know your customer) involves verification of official documents which consists of
-sensitive information but involved human interaction. this sensitive information could get leaked, and so I
-had to automate the whole process.
-- - I spent a good amount of time doing **data pre-processing and augmentations**, then I tweaked a lot of
-algorithms to solve the problems. finally, I automated the process of verification. At first I used **RCNN** then **Faster RCNN** but hardly had any success with them.
-- - Finally, I used **SOTA 2020 YOLO**, to perform object detection, that gave me an accuracy of **88%**, then I performed OCR which gave me an accuracy of 90+%.
-- **Invoices to Excel**
-  - I was presented with the task of extracting tables from invoices using OCR.
-  - I Used Paddle OCR with detectron2 and GoogleVisionAPI to achieve the results.
-  - here is a [link to the project](https://github.com/shyamgupta196/ss-table-extract-OCR/).
+  - **KYC**
+  - - Process of KYC(Know your customer) involves verification of official documents which consists of
+  sensitive information but involved human interaction. this sensitive information could get leaked, and so I
+  had to automate the whole process.
+  - - I spent a good amount of time doing **data pre-processing and augmentations**, then I tweaked a lot of
+  algorithms to solve the problems. finally, I automated the process of verification. At first I used **RCNN** then **Faster RCNN** but hardly had any success with them.
+  - - Finally, I used **SOTA 2020 YOLO**, to perform object detection, that gave me an accuracy of **88%**, then I performed OCR which gave me an accuracy of 90+%.
+  - **Invoices to Excel**
+    - I was presented with the task of extracting tables from invoices using OCR.
+    - I Used Paddle OCR with detectron2 and GoogleVisionAPI to achieve the results.
+    - here is a [link to the project](https://github.com/shyamgupta196/ss-table-extract-OCR/).
 
 2. **DATA SCIENCE CONSULTANT (SELF)– KERALA FREELANCER**
 - **Sea weeds** are medicinal herbs, but requires a lot of skilled man hours to harvest them. I was given the task to make a model to classify these weeds and harvest it using robots. But given the scarce availability of data, I was able to get 25 images from Client. CNN’s were overfitting and took 40 hours to converge with **high BIAS**.
