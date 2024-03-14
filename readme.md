@@ -23,6 +23,10 @@ had to automate the whole process.
 - - I spent a good amount of time doing **data pre-processing and augmentations**, then I tweaked a lot of
 algorithms to solve the problems. finally, I automated the process of verification. At first I used **RCNN** then **Faster RCNN** but hardly had any success with them.
 - - Finally, I used **SOTA 2020 YOLO**, to perform object detection, that gave me an accuracy of **88%**, then I performed OCR which gave me an accuracy of 90+%.
+- **Invoices to Excel**
+  - I was presented with the task of extracting tables from invoices using OCR.
+  - I Used Paddle OCR with detectron2 and GoogleVisionAPI to achieve the results.
+  - here is a [link to the project](https://github.com/shyamgupta196/ss-table-extract-OCR/).
 
 2. **DATA SCIENCE CONSULTANT (SELF)– KERALA FREELANCER**
 - **Sea weeds** are medicinal herbs, but requires a lot of skilled man hours to harvest them. I was given the task to make a model to classify these weeds and harvest it using robots. But given the scarce availability of data, I was able to get 25 images from Client. CNN’s were overfitting and took 40 hours to converge with **high BIAS**.
@@ -37,10 +41,12 @@ I wrote blogs, taught students Machine learning and Python accross the globe and
 
 ## Talks 
 - Got Invited as a [Guest Speaker](https://www.linkedin.com/feed/update/urn:li:activity:7099910618928877569/)- More than ML.
+- [Microsoft Event for introduction to Computer Vision](https://www.linkedin.com/posts/shyam-d-gupta-5356511aa_connections-machinelearning-deeplearning-activity-7143677011511640065-pjXH?utm_source=share&utm_medium=member_desktop)
 
 ## Projects
-
-### Kaggle Notebooks & Competitions- 
+1. **CapiPort**
+  Me and My friend made a tool for Portfolio Optimization of Indian Equity Markets. Our Main aim is to minimize Risk and Maximize Returns Of the portfolio, and properly allocating assets based on risk and returns.[**Link**](https://huggingface.co/spaces/sankhyikii/CapiPort)  
+3. **Kaggle Notebooks & Competitions-** 
 I have wrote some good notebooks on Kaggle, I try to keep my **notebooks** as practical as I can. [LINK](https://www.kaggle.com/shyamgupta196).
 - I teamed up with Samuel Courtinhas and came 32 🎉 out of 750+ in **Kaggle Competition**.
 - Winner 🎉 of [Data Grandmasters](https://www.linkedin.com/feed/update/urn:li:activity:6968001880232747008/) Event in my city. We competed against 20 teams, where we were asked questions related to analytics, statistics, and deep learning.
