@@ -1,4 +1,4 @@
-# Computer Vision and Data Analytics Consultant | Avid Learner
+# Passionate for Computer Vision and Data Analytics 
 [![Build Status](https://github.com/bhanuprasanna527/CapiPort/actions/workflows/HF_sync_space.yml/badge.svg)](https://github.com/shyamgupta196/shyamgupta196.github.io/actions)
 
 Proactive Problem Solver | Curious & Excited for AI Era  
